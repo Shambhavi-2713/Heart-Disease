@@ -1,0 +1,1 @@
+A heart disease prediction system utilizes macine learning with six allgorithms: K-Nearest Neighbour (KNN), Support Vector Machine (SVM), Decision Tree, Logistic Regression, Naive Bayes, and Random Forest. This system analyzes relevantfeatures in a dataset to predict the likelihood of heart disease.
